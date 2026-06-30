@@ -1,0 +1,23 @@
+ADB Logs & Testing Scripts (Android QA)Add to /mobile-testing/adb-examples.mdSample ADB Log Collection Scriptbash
+
+# Capture logs for specific app
+adb logcat | grep com.portnov.eshop > eshop_logs.txt
+
+# Capture crash logs
+adb logcat AndroidRuntime:E *:S > crash_logs.txt
+
+# Flutter app debug logs
+adb logcat flutter:D *:S > flutter_debug.txt
+
+# Full log with timestamp
+adb logcat -v time > full_log.txt
+
+Simple Monkey Stress Testbash
+
+adb shell monkey -p com.portnov.eshop -v 500  # 500 random events
+
+App Install & Launchbash
+
+adb install -r app-debug.apk
+adb shell am start -n com.portnov.eshop/.MainActivity
+
