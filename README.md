@@ -1,19 +1,14 @@
-👋 Dennis Walsh - Service QA & Data Analytics Portfolio
+# Service & QA Testing Labs
 
-Welcome! I’m a Service & QA professional with hands-on experience testing web, mobile, and networked applications in cloud and on-premise environments as well data analytics.
+A dedicated workspace for hands-on system verification, API testing, and mobile application debugging.
 
-🧪 QA Highlights
-API testing with Postman (collections, environments, assertions)
-Database validation with SQL (queries, joins, data integrity)
-Mobile testing with ADB (emulators, logs, wireless debugging)
-Manual test cases & bug reporting
+This repository highlights practical workflows for testing web, mobile, and networked applications across cloud and on-premise environments. The focus here is on directly testing and validating technology, isolating defects, and ensuring reliable performance.
 
+### 🧪 Core QA Capabilities Demonstrated
 
-📊 Data Analytics Highlights
-Power BI dashboards (sales analysis, customer returns, telecom churn)
-Dynamic insights with DAX and interactive visuals
-
-
-Open to QA Engineer and Power BI Data Analyst roles
+*   **API Testing:** Using Postman to build test collections, manage environments, and write assertions to verify payload structures and response codes.
+*   **Database Verification:** Executing SQL queries (joins, data integrity checks) to validate backend data flow and accuracy.
+*   **Mobile Testing:** Utilizing Android Debug Bridge (ADB) for hands-on emulator configuration, logcat extraction, and wireless debugging to isolate mobile-specific defects.
+*   **Defect Triage:** Structuring clear, reproducible manual test cases and actionable bug reporting.
 
 📫 dlw10053@gmail.com | LinkedInlinkedin.com/in/dennislwalsh/)
