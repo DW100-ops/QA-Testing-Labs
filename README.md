@@ -9,6 +9,5 @@ This repository highlights practical workflows for testing web, mobile, and netw
 *   **API Testing:** Using Postman to build test collections, manage environments, and write assertions to verify payload structures and response codes.
 *   **Database Verification:** Executing SQL queries (joins, data integrity checks) to validate backend data flow and accuracy.
 *   **Mobile Testing:** Utilizing Android Debug Bridge (ADB) for hands-on emulator configuration, logcat extraction, and wireless debugging to isolate mobile-specific defects.
-*   **Defect Triage:** Structuring clear, reproducible manual test cases and actionable bug reporting.
 
 📫 dlw10053@gmail.com | LinkedInlinkedin.com/in/dennislwalsh/)
